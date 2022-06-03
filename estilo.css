@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Text:wght@400;900&family=Boogaloo&family=Fira+Sans:ital@0;1&family=Gelasio:ital,wght@0,400;0,700;1,700&family=Georama:ital,wght@1,900&family=Philosopher:wght@400;700&display=swap');
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body{
+	font-family: 'BigShoulders';
+}
+header{
+	background-color: #E7D8AF ;
+	text-aling: center;
+	padding: 25px 0;
+}
+
+nav a{
+	display: inline-block;
+	text-decoration: none;
+	color: #696969;
+	margin: cover;
+	padding: 5px 15px;
+	border-radius: 3;
+}
+nav a:hover{
+	background-color: #000;
+	color: #fff;
+}
+
+.encabezado-img{
+	background-image: url(img/b.jpg);
+	height: 300px;
+	background-size: cover;
+	display: flex;	
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	color: #fff;
+}
+div#inicio{
+	margin: auto;
+	margin-top:
+	width:960px;
+	height:200px;
+	text-aling: center;
+	font: oblique bold 120% cursive;
+	background-color: #A7C135 ;
+}
+div#precios{
+	margin: auto;
+	
+	width:860px;
+	height:1070px;
+	text-aling: center;
+	font: oblique bold 120% cursive;
+	background-color: #E7D8AF;
+}
+div#combos{
+	margin: auto;
+	width:860px;
+	height:240px;
+	text-aling: center;
+	font: oblique bold 120% cursive;
+	background-color: #E7D8AF;
+}
+
+div#taquerosguapos{
+	margin: auto;
+	width:960px;
+	height:370px;
+	text-aling: center;
+	font: oblique bold 120% cursive;
+	background-color: #E7D8AF;
+}
+div#final{
+	margin: auto;
+	margin-top:
+	width:999px;
+	height:520px;
+	text-aling: center;
+	font-family: 'Philosopher', sans-serif;;
+	background-color: #545454;
+}
